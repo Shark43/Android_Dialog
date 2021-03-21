@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">dialog</string>
+    <string name="button1">button 1</string>
+    <string name="button2">button 2</string>
+    <string name="alert_dialog_title_1">Questa è una alter dialog</string>
+    <string name="alert_dialog_message_1">Premi un dei pulsanti</string>
+    <string name="press_no">Premuto no</string>
+    <string name="press_yes">Premuto si</string>
+    <string name="press_cancel">Annulla</string>
+    <string name="no">No</string>
+    <string name="yes">Si</string>
+    <string name="alert_dialog_title_2">DIALOG 2</string>
+    <string name="alert_dialog_message_2">Inserisci il tuo nome</string>
+    <string name="ok">Ok</string>
+</resources>
